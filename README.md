@@ -35,9 +35,25 @@ The goal was to practice Python fundamentals by turning them into an actual play
 - Game-state management
 - Basic problem-solving and logic
 
+## Future Improvements
+
+- Add more story branches
+- Add more enemies and challenges
+- Expand the inventory system
+- Add more puzzles and endings
+- Improve the overall game experience
+
+## Built With
+
+- Python
+- Git
+- GitHub
+
 ## How to Run
 
 Make sure Python is installed on your system.
 Clone the repository:
 ```bash
 git clone https://github.com/HumaaKhann/Choose-Your-Own-Adventure.git
+
+
